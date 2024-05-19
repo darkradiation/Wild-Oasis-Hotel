@@ -6,6 +6,11 @@ Welcome to the GitHub repository for The Wild Oasis Hotel Management System. Thi
 
 The Wild Oasis is a boutique hotel that offers 8 exclusive cabins. The goal of this application is to provide an all-encompassing internal tool for hotel employees to manage hotel operations effectively. This includes handling bookings, cabin management, guest check-ins, and employee account management.
 
+## Links
+
+Live link : https://the-wild-oasis-dark-radiation.netlify.app/  
+Video Demo : https://youtu.be/pxwFplxW9EM?si=_nZ3BRasKU5Pww4b
+
 ## Features
 
 - **User Authentication**: Secure login mechanism for hotel employees.
@@ -27,6 +32,28 @@ The Wild Oasis is a boutique hotel that offers 8 exclusive cabins. The goal of t
 - **Form Management**: [React Hook Form](https://react-hook-form.com/)
 - **Backend**: [Supabase](https://supabase.com/)
 - **Other Libraries**: React Icons, Recharts, Date-fns, Hot Toast
+
+## Screenshots
+
+![login page](screenshots/Screenshot%20from%202024-03-17%2018-20-10.png)
+![homepage-1 dark-mode](screenshots/Screenshot%20from%202024-03-17%2018-19-18.png)
+![homepage-2 darkmode](screenshots/Screenshot%20from%202024-03-17%2018-19-31.png)
+![homepage](screenshots/Screenshot%20from%202024-03-17%2018-16-26.png)
+![bookings darkmode](screenshots/Screenshot%20from%202024-03-17%2018-20-31.png)
+![bookings](screenshots/Screenshot%20from%202024-03-17%2018-16-59.png)
+![booking page](screenshots/Screenshot%20from%202024-03-17%2018-17-22.png)
+![delete modal](screenshots/Screenshot%20from%202024-03-17%2018-17-32.png)
+![cabins](screenshots/Screenshot%20from%202024-03-17%2018-17-49.png)
+![new cabin form](screenshots/Screenshot%20from%202024-03-17%2018-18-00.png)
+![new user form](screenshots/Screenshot%20from%202024-03-17%2018-18-34.png)
+![settings](screenshots/Screenshot%20from%202024-03-17%2018-18-38.png)
+![user account](screenshots/Screenshot%20from%202024-03-17%2018-18-52.png)
+
+<!-- <html>
+  <body>
+    <iframe width="942" height="530" src="https://www.youtube.com/embed/pxwFplxW9EM" title="WildOasis - hotel management website demo" frameborder="0" allow="accelerometer; autoplay; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </body>
+</html> -->
 
 ## Getting Started
 
