@@ -129,23 +129,25 @@ function Uploader() {
     <div
       style={{
         marginTop: "auto",
-        backgroundColor: "#e0e7ff",
+        backgroundColor: "#374151",
         padding: "8px",
         borderRadius: "5px",
         textAlign: "center",
         display: "flex",
         flexDirection: "column",
         gap: "8px",
+        color: "white",
       }}
     >
       <h3>SAMPLE DATA</h3>
+      <div>for testing purposes</div>
 
       <Button onClick={uploadAll} disabled={isLoading}>
-        Upload ALL
+        Re-upload ALL Data
       </Button>
 
       <Button onClick={uploadBookings} disabled={isLoading}>
-        Upload bookings ONLY
+        Upload Bookings ONLY
       </Button>
     </div>
   );
